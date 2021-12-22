@@ -11,6 +11,8 @@ h2{
 Form{
     background-color: beige;
     width: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 footer{
     text-align: center;
@@ -19,4 +21,6 @@ footer{
 img{
     border-radius: 25px;
 
+    
 }
+
